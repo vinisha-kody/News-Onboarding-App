@@ -35,12 +35,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  flutter_screenutil: ^5.9.0
-  flutter_riverpod: ^2.3.7
-  injectable: ^2.1.2
-  freezed_annotation: ^2.4.1
+  flutter_screenutil:
+  flutter_riverpod:
+  injectable:
+  freezed_annotation:
   get_it:
-  url_strategy: ^0.2.0
+  url_strategy:
   responsive_builder:
 
 dev_dependencies:
@@ -75,6 +75,63 @@ flutter:
   assets:
     - assets/images/Astronautes.png
     - assets/images/Heroimage.png
+    - assets/images/business.png
+    - assets/images/Health.png
+    - assets/images/Sport.png
+    - assets/images/Technology.png
+    - assets/images/earth.png
+    - assets/images/dna.png
+    - assets/images/physics.png
+    - assets/images/space.png
+    - assets/images/wildlife.png
+    - assets/images/ant.png
+    - assets/images/ai.png
+    - assets/images/art.png
+    - assets/images/book.png
+    - assets/images/celebrities.png
+    - assets/images/computing.png
+    - assets/images/fitness.png
+    - assets/images/gadgets.png
+    - assets/images/healthcare.png
+    - assets/images/internet.png
+    - assets/images/jobs.png
+    - assets/images/medicine.png
+    - assets/images/mentalhealth.png
+    - assets/images/movies.png
+    - assets/images/music.png
+    - assets/images/nutritian.png
+    - assets/images/tv.png
+    - assets/images/vr.png
+    - assets/images/economy.png
+    - assets/images/entrepreneurship.png
+    - assets/images/markets.png
+    - assets/images/personalfinance.png
+    - assets/images/earthred.png
+    - assets/images/dnared.png
+    - assets/images/physicsred.png
+    - assets/images/spacered.png
+    - assets/images/antred.png
+    - assets/images/aired.png
+    - assets/images/artred.png
+    - assets/images/bookred.png
+    - assets/images/actressred.png
+    - assets/images/computingred.png
+    - assets/images/fitnessred.png
+    - assets/images/gadgetsred.png
+    - assets/images/healthcarered.png
+    - assets/images/internetred.png
+    - assets/images/jobsred.png
+    - assets/images/medicinered.png
+    - assets/images/mentalhealthred.png
+    - assets/images/moviesred.png
+    - assets/images/musicred.png
+    - assets/images/nutritianred.png
+    - assets/images/tvred.png
+    - assets/images/vrred.png
+    - assets/images/economyred.png
+    - assets/images/entrepreneurshipred.png
+    - assets/images/marketred.png
+    - assets/images/personalfinancered.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
